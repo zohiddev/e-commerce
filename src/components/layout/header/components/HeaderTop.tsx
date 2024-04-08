@@ -20,7 +20,7 @@ function HeaderTop() {
           </div>
 
           <div className="header-top__row">
-            <a href="tel:+998991234567" className="header-link">
+            <a href="tel:+998991234567" className="header-link header-link__phone">
               <span className="header-link__icon">
                 <PhoneIcon />
               </span>
